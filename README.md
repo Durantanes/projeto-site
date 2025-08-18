@@ -1,2 +1,5 @@
 # projeto-site
-projeto de um site criado durante o curso de Git e GitHub
+
+Estou desenvolvendo este site conforme adquiro conhecimento e tenho tempo.
+
+É um trabalho em andamento!
